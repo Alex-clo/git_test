@@ -1,0 +1,35 @@
+[33mcommit da490c15833a5597d0357481dac389bb29a52b71[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alex-clo <alex.neko844@gmail.com>
+Date:   Mon Dec 6 15:07:05 2021 -0300
+
+    quarto commit
+
+ templates/teste.html | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit f760f5cc6c3fc7ca0293e2728d567801823397a8[m
+Author: Alex-clo <alex.neko844@gmail.com>
+Date:   Mon Dec 6 15:06:12 2021 -0300
+
+    teceiro commi9t template
+
+ templates/teste.html | 9 [32m+++++++++[m
+ 1 file changed, 9 insertions(+)
+
+[33mcommit 9b0cce416eddcc7b0a3facfbfbad135261899ae3[m
+Author: Alex-clo <alex.neko844@gmail.com>
+Date:   Mon Dec 6 15:05:02 2021 -0300
+
+    second commit
+
+ index.html | 9 [32m+++++++++[m
+ 1 file changed, 9 insertions(+)
+
+[33mcommit b69bf2693c6952ece975c91ce7c41afb7b79ff0a[m
+Author: Alex-clo <alex.neko844@gmail.com>
+Date:   Mon Dec 6 14:55:32 2021 -0300
+
+    first commit
+
+ index.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
